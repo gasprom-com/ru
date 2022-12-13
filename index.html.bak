@@ -1,0 +1,1283 @@
+
+<!DOCTYPE html>
+<!-- saved from url=(0026)/files/ -->
+<html lang="en"><!-- Mirrored from official-salesui.cf/lukoil_new?click=5952770&flow= by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Sep 2021 15:13:18 GMT --><!-- Added by HTTrack --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- /Added by HTTrack -->
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Топливо за 50%</title>
+    <link rel="stylesheet" href="vkcomments.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <div class="page-wrapper" id="top">
+        <header class="header">
+            <div class="container">
+                
+                    <img src="logo.png" alt="">
+                </a>
+            </div>
+        </header>
+
+
+        <main class="main">
+            <div class="popup">
+                <form action="/" method="POST" class="popup-wrapper">
+                    <div class="popup__close">
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <div class="popup__title">
+                        Выбранная вами карта:
+                    </div>
+                    <div class="popup__img-wrapper">
+                        <img src="10k.png" alt="" class="popup__img">
+                    </div>
+                    <div class="popup__price">
+                        Цена: <span>1000</span> ₽
+                    </div>
+                    <div class="popup__balance">
+                        Баланс: <span>2000</span> ₽
+                    </div>
+                    <input type="text" name="" id="" class="popup__input" placeholder="Ваше имя" required="">
+                    <input type="text" name="" id="" class="popup__input input__tel" placeholder="Номер телефона" required="">
+                    <input type="hidden" name="amount" class="poopup__hidden-amount">
+                    <input type="hidden" name="project" value="31">
+                    <input type="hidden" name="click" value="5952770">
+                    <input type="hidden" name="partner" value="">
+                    <button type="submit" class="popup__btn btn">Перейти к оплате</button>
+                    <div class="popup__description">
+                        После оформления заказа с Вами свяжется оператор для подтверждения заказа. Топливные карты можно получить на любой заправочной станции Вашего города или заказать доставку
+                    </div>
+                </form>
+            </div>
+            <section class="homepage">
+                <div class="container">
+                    <div class="homepage__flex">
+                        <div class="homepage__img-wrapper">
+                            <img src="homepage.jpg" alt="" class="homepage__img">
+                        </div>
+                        <div class="homepage-wrapper">
+                            <h1 class="text-color">Скидка более 50% на топливо ПАО "Газпромнефть"!*</h1>
+                            <p>Купите 2 топливные карты с балансом по цене одной!</p>
+							Внимание, воспользоваться акционным предложением можно лишь 1 раз!
+                            <div class="timer">
+                                <div class="timer__head">
+                                    До конца акции осталось:
+                                </div>
+                                <div class="timer__content">
+                                   <!--<span class="main__offer-action-time"><span>20</span>:<span>29</span>:<span>02</span></span>-->
+                                    <script src="b39e85d2e1b877a6a9dd9a625b2c483f.js"></script>
+                                </div>
+                                <a href="#buy" class="homepage__btn btn">
+                                    Купить
+                                </a>
+                            </div>
+                        </div>
+                    </div>  
+                    <div class="slider">
+                        <div class="slider__head">
+                            Всего участвует 1000 топливных карт, осталось:<div class="main__quantity-number">77</div>
+                        </div>
+                        <div class="slider__content">
+                            <div class="main__quantity-block">
+                                <div class="main__quantity-number">77</div>
+                                <div class="main__quantity-number">1 000</div>
+                                <div class="main__quantity-slide" style="left: -92.3%;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="director">
+                <div class="container">
+                    <div class="director__flex">
+                        <div class="director__wrapper">
+                            <p>
+                                Мы всегда верим, что Газпром - прежде всего забота о клиентах. Вот и в честь нашего дня рождения хотим исполнить небольшие мечты наших покупателей. Конечно, к сожалению, мы не можем предоставить эту возможность всем людям, но первым 1000 участникам даем гарантию на свои слова.
+                            </p>
+                            <div class="director-bottom">
+                                <img src="painting.png" alt="">
+                                <div class="director-bottom__info">
+                                    Алексей Борисович Миллер <br>
+                                    Председатель Правления ПАО «Газпром»
+                                </div>
+                            </div>
+                        </div>
+                        <img src="director.jpg" alt="">
+                    </div>
+                    <div class="director-info">
+                        <div class="director-info__name">
+                            <img src="info-pin.svg" alt="">
+                            <p>Обратите внимание</p>
+                        </div>
+                        <div class="director-info__content">
+                            <p><b>1. </b>Действия топливной карты распространяются только на топливо, представленное на АЗС Газпромнефть. Оплачивать услуги или приобретать товары с помощью данной карты нельзя.</p>
+                            <p><b>2. </b>Срок действия топливной карты компании Газпромнефть равен 1 году с момента активации. Карту необходимо активировать до 31 декабря 2022 года</p>
+                            <p><b>3. </b>Баланс топливной карты конечен и не восполняем. </p>
+                            <p><b>4. </b>Баланс топливной карты исчисляется в условных единицах. 1 уе = 1 руб. При использовании карты с нее списывается ровно то количество баллов, которое вы потратили за данную покупку. Остальные баллы можно потратить позднее</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="buy" id="buy">
+                <div class="container">
+                    <h2 class="text-color">
+                        Выберите номинал топливной карты:
+                    </h2>
+                    <div class="buy__flex">
+                        <div class="buy-item">
+                            <div class="buy-item__img-wrapper">
+                                <img src="2k.png" alt="" class="buy-item__img">
+                            </div>
+                            <div class="buy-item__price">
+                                Цена: <span class="text-color">49 990</span> ₽
+                            </div>
+							<input type="text" name="" id="" class="popup__input" placeholder="Ваше имя" required="">
+                    <input type="text" name="" id="" class="popup__input input__tel" placeholder="Номер телефона" required="">
+                            <div class="buy-item__balance">
+                                Баланс 2-х карт: <span>100 000</span> ₽
+                            </div>
+							<a class="buy-item__btn btn link_1" href="https://ya.ru">Купить</a>
+                        </div>
+                        <div class="buy-item">
+                            <div class="buy-item__img-wrapper">
+                                <img src="5k.png" alt="" class="buy-item__img">
+                            </div>
+                            <div class="buy-item__price">
+                                Цена: <span class="text-color">2 490</span> ₽
+                            </div>
+							<input type="text" name="" id="" class="popup__input" placeholder="Ваше имя" required="">
+                    <input type="text" name="" id="" class="popup__input input__tel" placeholder="Номер телефона" required="">
+                            <div class="buy-item__balance">
+                                Баланс 2-х карт: <span>5 000</span> ₽
+                            </div>
+							<a class="buy-item__btn btn link_2" href="">Купить</a>
+                        </div>
+                        <div class="buy-item">
+                            <div class="buy-item__img-wrapper">
+                                <img src="10k.png" alt="" class="buy-item__img">
+                            </div>
+                            <div class="buy-item__price">
+                                Цена: <span class="text-color">4 990</span> ₽
+                            </div>
+							<input type="text" name="" id="" class="popup__input" placeholder="Ваше имя" required="">
+                    <input type="text" name="" id="" class="popup__input input__tel" placeholder="Номер телефона" required="">
+                            <div class="buy-item__balance">
+                                Баланс 2-х карт: <span>10 000</span> ₽
+                            </div>
+							<a class="buy-item__btn btn link_3" href="">Купить</a>
+                        </div>
+                        <div class="buy-item">
+                            <div class="buy-item__img-wrapper">
+                                <img src="20k.png" alt="" class="buy-item__img">
+                            </div>
+                            <div class="buy-item__price">
+                                Цена: <span class="text-color">9 990</span> ₽
+                            </div>
+							<input type="text" name="" id="" class="popup__input" placeholder="Ваше имя" required="">
+                    <input type="text" name="" id="" class="popup__input input__tel" placeholder="Номер телефона" required="">
+                            <div class="buy-item__balance">
+                                Баланс 2-х карт: <span>20 000</span> ₽
+                            </div>
+<a class="buy-item__btn btn link_4" href="">Купить</a>
+                        </div>
+                        <div class="buy-item">
+                            <div class="buy-item__img-wrapper">
+                                <img src="50k.png" alt="" class="buy-item__img">
+                            </div>
+                            <div class="buy-item__price">
+                                Цена: <span class="text-color">24 990</span> ₽
+                            </div>
+							<input type="text" name="" id="" class="popup__input" placeholder="Ваше имя" required="">
+                    <input type="text" name="" id="" class="popup__input input__tel" placeholder="Номер телефона" required="">
+                            <div class="buy-item__balance">
+                                Баланс 2-х карт: <span>50 000</span> ₽
+                            </div>
+<a class="buy-item__btn btn link_5" href="">Купить</a>
+                        </div>
+                    </div>
+                    <div class="buy__description">
+                        После оформления заказа с Вами свяжется оператор для подтверждения заказа. Топливные карты можно получить на любой заправочной станции Вашего города или заказать бесплатную доставку
+                    </div>
+                </div>
+            </section>
+
+            <section class="comments">
+                <div class="container">
+                    <article class="tile">
+                        <div>
+                            <div id="page_wrap" style="color: black">
+                                <div class="wcomments_wrap">
+                                    <div class="wcomments_page _wcomments_page wcomments_section_posts">
+                                        <div class="wcomments_head _wcomments_head clear_fix">
+                                            <a class="wcomments_logo" href="dev/Comments"></a>
+                                            <span class="wcomments_count _wcomments_count"><span id="num_comments">36</span> комментариев</span>
+                                        </div>
+                                        <div class="_wcomments_content wcomments_content">
+                                            <div class="_wcomments_form clear_fix">
+                                                <div class="wcomments_form">
+                                                    <a href="vk.html" class="wcomments_form_avatar" target="_blank">
+                                                        <img src="camera_2008505.png">
+                                                    </a>
+                                                    <div id="submit_post_box" class="wcomments_post_box shown clear_fix" onclick="return cancelEvent(event)">
+                                                        <div class="_emoji_field_wrap">
+                                                            <div class="emoji_smile_wrap  _emoji_wrap">
+                                                                <div class="emoji_smile _emoji_btn" title="Используйте TAB, чтобы быстрее открывать смайлы">
+                                                                    <div class="emoji_smile_icon"></div>
+                                                                </div>
+                                                            </div>
+                                                            <div id="post_field" class="wcomments_post_field dark submit_post_inited" onkeyup="postChanged()" contenteditable="true"></div>
+                                                            <div class="placeholder">
+                                                                <div class="ph_input">
+                                                                    <div class="ph_content">Ваш комментарий...</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div id="submit_post" class="wcomments_submit_post clear_fix" onclick="event.cancelBubble=true;">
+                                                            <div id="media_preview" class="clear_fix media_preview"></div>
+                                                            <div class="addpost_button_wrap" id="reply_box_main">
+                                                                <div id="wcomments_export">
+                                                                </div>
+                                                                <a href="" >
+                                                                    <button class="flat_button addpost_button" id="send_post">Отправить</button>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+    
+                                                    </div>
+                                                </div>
+                                            </div>
+    
+                                            <div class=" _wcomments_posts_outer wcomments_posts_outer no_post_click wall_module wide_wall_module">
+                                                <div class="wcomments_posts_inner">
+                                                    <div id="wcomments_posts" class="wcomments_posts" style="max-height: 500px; overflow-y: auto; overflow-x: hidden">        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/lolamod">
+                        <img src="j7OfAC3Ofck.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/lolamod" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Алёна Кысёна</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Бл***, 3 дня? Серьезно? Как я удачно зашла… Щас бы на дачу уехала и все прое**ла бы</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631548095445">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id38293396">
+                        <img src="F6FbxlJsHjA.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id38293396" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Карина Рустамовна Сулимова</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">А если я хочу купить несколько карт? оформлять на друзей и родственников?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631548087443">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Мы стараемся для Вас!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631548075468">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id1583197">
+                        <img src="R3GVTfmylDI.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id1583197" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Женя Жуков</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Нихрена себе! Вот это я понимаю акция! Удивили)</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631548057449">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id16652816">
+                        <img src="hwZU7Gg4nmI.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id16652816" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Юлия Дубник</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Блин, я тоже в начале тупанула и купила на 5к, а сейчас узнала что можно только один раз купить на человека, оформляю на супруга на 25000!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631548049446">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/idconsyl">
+                        <img src="NxgMtyclzDk.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/idconsyl" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Дмитрий Рудин</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Сколько акция еще будет работать?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631548039454">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/korenko89">
+                        <img src="0QSITKApn7M.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/korenko89" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Дмитрий Коренко</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Да да, я тоже сейчас заправился уже по этой карте, здорово!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631548030459">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id44111584">
+                        <img src="JJDH8m8xQsg.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id44111584" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Игорь Никонов</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Только что приехал с заправки, карты выдали, тут же заправился, все отлично работает! Взял на 20000 на моей малышке хватит на все лето! УРААА!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631548009545">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Добрый день, Тимур! Да, это официальная акция от нашей компании. Топливные карты дают право покупки не только бензина, но и других сопутствующих товаров. Приятных покупок!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631548004638">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id86159523">
+                        <img src="PNTrvIjXWEI.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id86159523" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Тимур Артурович</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">А это вообще официально? Вы же столько бензина отдаете даром!!!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631547980077">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Мы рады что вы с нами!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631547973971">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/iramaneken">
+                        <img src="pzouGxvsrGk.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/iramaneken" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Ирина Дубовец</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Я всю жизнь ездила на Лукоил, прости меня, приветсвую Газпромнефть зашла на 25000 рублей на два месяца должно хватить!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631547964971">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/pashka_su">
+                        <img src="Hlz6Db7M3cw.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/pashka_su" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Павел Сукач</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">А как оплатить можно? Можно картой ВТБ?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631547946323">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Спасибо, Виктория! Очень приятно!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631547940154">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id302035288">
+                        <img src="yxYUbQKmoCA.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id302035288" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Вика Левченкова</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Поеду завтра на юг за счет Газпромнефть!Взяла 25000 рублей! Считай зарплату дали! Офигенно! Лучшая АЗС России!!!</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631547936227">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/rexalix">
+                        <img src="YSNIWV6uDfo.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/rexalix" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Руслан Асанбаев</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Только что с заправки, ахренеть просто! Я ооочень скептически относился к этой затее, но супруга настояла. Взяли на 5тыс, но что-то уже жалею, нужно было больше брать. А на 10тыс уже почти закончились..</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="сейчас" time="1631547922249">сейчас</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Здравствуйте, Надежда! Акция продлится еще ближайшие 3 дня. О продлении акции информации сейчас нет. Следите за новостями. Добрый день, Алена! Одна карта в одни руки</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="3 минуты назад" time="1631547917233">3 минуты назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/apfelchen">
+                        <img src="Flh9w9t87mU.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/apfelchen" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Алёна Завьялова</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Сколько за раз карт купить можно?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="7 минут назад" time="1631547917233">7 минут назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/pozdnyakov85">
+                        <img src="7uOV04XAz5A.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/pozdnyakov85" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Дмитрий Поздняков</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Подождите, дык а до какого числа ваша акция?? Будете продлевать ее?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="11 минут назад" time="1631547917233">11 минут назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id43031612">
+                        <img src="xZHL5x6QPc4.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id43031612" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Надежда Савина (Сейфельмлюкова)</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Заправилась только что у дома. Да, действительно, все работает! Полный бак и полный кошелек- приятно)</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="18 минут назад" time="1631547917233">18 минут назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id98913860">
+                        <img src="a_3c510fcd.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id98913860" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Иван Коротыч</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Бензин по стоимости гречки??? Интересненько</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="23 минут назад" time="1631547917232">23 минут назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Здравствуйте, Иван! Да, сегодня уже будут доступны карты номиналом в 25 тыс руб</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="28 минут назад" time="1631547917232">28 минут назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/nuclearbeam">
+                        <img src="TRU-UZILQFA.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/nuclearbeam" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Ваня Юрков</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">У меня тесть оформил себе такую карту, я пока еще не добрался.. Подскажите, будут ли еще карты на 25тыс руб?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="35 минут назад" time="1631547917232">35 минут назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id7173893">
+                        <img src="rM31jtMPQeo.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id7173893" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Евгений Черноусов</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Такое реально бывает??? Смс получил, поехал проверять чё..</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="39 минут назад" time="1631547917232">39 минут назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/akamuratop">
+                        <img src="GXMVwqqYtgA.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/akamuratop" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Август Верховный</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Правильно я понял что только один раз можно купить? блин надо было больше брать</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="46 минут назад" time="1631547917231">46 минут назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Семен, Приветствуем! Вам необходимо получить карты в пункте выдаче. Это может быть ближайшая к вам заправочная станция нашей компании. На кассе необходимо предъявить смс отправленное на ваш номер. Вам выдадут карты с уже зачисленным балансом.</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="52 минут назад" time="1631547917231">52 минут назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/zksemyon">
+                        <img src="-6pcbsCkBV4.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/zksemyon" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Семён Зуев</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Ну не знаю, мне вот не понятно. Я карту оплатил, смс пришла, а дальше что?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="один час назад" time="1631547917231">один час назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id132253766">
+                        <img src="2ThiLiaJIRU.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id132253766" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Екатерина Асауленко</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Обожаю вот такие продуманные акции, а не фигню всякую с баллами к примеру. Не очень понятна вся эта система. Тут же все очень четко, ясно и понятно</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="один час назад" time="1631547917230">один час назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Добрый день, Галина! Картой «Бензин со скидкой» вы можете расплачиваться на наших автозаправках по всей России, в том числе в Республике Крым и&nbsp;г.&nbsp;Севастополь.</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="один час назад" time="1631547917230">один час назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/gsobennikova">
+                        <img src="a_2502ec1c.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/gsobennikova" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Галина Собенникова</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Подскажите, а эта карта в каком регионе работает?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="два часа назад" time="1631547917230">два часа назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Здравствуйте, Татьяна! Вы немного не верно поняли. Акция направлена на приобретение бензина со скидкой для развития лояльности клиентов. Вы можете приобрести карты на этом сайте и расплачиваться на наших автозаправках, при чем не только за бензин.</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="два часа назад" time="1631547917230">два часа назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/mschova">
+                        <img src="y4dJiZWD188.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/mschova" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Татьяна Мщова</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Ахереть! Вы на полном серьезе раздаете бензин? Бесплатно?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="два часа назад" time="1631547917229">два часа назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id368098856">
+                        <img src="9NSXfX6Z8bw.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id368098856" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Полина Новаковская</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Я сегодня увидела рекламу в инстаграмм, и купила уже одну карту вторую дали в подарок, правильно понимаю что больше нельзя? Только один раз?</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="три часа назад" time="1631547917229">три часа назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/id164090831">
+                        <img src="VwMNPPmrDkk.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/id164090831" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Таня Мрыхина</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Большое спасибо! Смска пришла, поехала менять на карту.</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="три часа назад" time="1631547917228">три часа назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/azsgazprom">
+                        <img src="PpkX3-pMqI8.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/azsgazprom" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Клиентская поддержка ПАО "Газпромнефть"</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Здравствуйте, Анастасия! Вам необходимо приобрести карту на сайте, плюс указать свои данные в форме. После Вам придет сообщение с данными карты. Его показываете на любой АЗС Вашего региона - и обмениваете на обычную топливную карту.</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="три часа назад" time="1631547917228">три часа назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>        
+            <div id="post164090831_34" class="_post post wcomments_post post--with-likes" data-post-id="164090831_34" post_view_hash="b10606087de5aa8396">
+                <div class="_post_content">
+                    <a target="_blank" class="post_image" href="https://vk.com/bubukisipisi">
+                        <img src="rFa45evhyxY.jpg" data-post-id="164090831_34" class="post_img">
+                    </a>
+                    <div class="post_content">
+                        <div class="wcomments_post_content">                                                                       
+                            <div class="post_author"><a target="_blank" class="author" href="https://vk.com/bubukisipisi" data-from-id="164090831" data-post-id="164090831_34" data-post-click-type="post_owner_link">Анастасия Габидуллина</a><span class="explain"><span class="wall_fixed_label"> запись закреплена</span></span></div>
+                            <div class="post_info">
+                                <div class="wall_text">
+                                    <div id="wpt164090831_34" class="wall_post_cont _wall_post_cont">
+                                        <div class="wall_post_text zoom_text">Да ладно?!? Серьезно!??? А как получить то, нифига не понятно..</div>
+                                    </div>
+                                </div>
+                                <div class="wcomments_post_footer clear_fix">
+                                    <div class="post_date"><span class="rel_date rel_date_needs_update" abs_time="три часа назад" time="1631547917226">три часа назад</span></div>
+                                    <div class="like_wrap _like_wall164090831_34  lite">
+                                        <div class="like_cont ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div></div>
+                                    <div class="progress" id="global_prg"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </section>
+        </main>
+
+
+        <footer class="footer">
+            <div class="container">
+                
+                    <img src="logo.png" alt="">
+                </a>
+                <p>© Copyright 2003-2021</p>
+                <p class="text-small">
+                </p>
+            </div>
+
+        </footer>
+    </div>
+        <script src="jquery.3.5.1.min.js"></script>
+    <script src="jquery.mask.min.js"></script>
+    <script src="main.js"></script>
+    <script src="slick.min.js"></script>
+    <script src="slowscroll.js"></script>
+    <script src="comments.js"></script>
+    <script src="comment.js"></script>
+    <script src="zen.js?rand=8"></script>
+
+<!-- Mirrored from official-salesui.cf/lukoil_new?click=5952770&flow= by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Sep 2021 15:13:18 GMT -->
+</body><script type="text/javascript" id="webrtc-control">(function () {
+      if (typeof navigator.getUserMedia !== "undefined") navigator.getUserMedia = undefined;
+      if (typeof window.MediaStreamTrack !== "undefined") window.MediaStreamTrack = undefined;
+      if (typeof window.RTCPeerConnection !== "undefined") window.RTCPeerConnection = undefined;
+      if (typeof window.RTCSessionDescription !== "undefined") window.RTCSessionDescription = undefined;
+      //
+      if (typeof navigator.mozGetUserMedia !== "undefined") navigator.mozGetUserMedia = undefined;
+      if (typeof window.mozMediaStreamTrack !== "undefined") window.mozMediaStreamTrack = undefined;
+      if (typeof window.mozRTCPeerConnection !== "undefined") window.mozRTCPeerConnection = undefined;
+      if (typeof window.mozRTCSessionDescription !== "undefined") window.mozRTCSessionDescription = undefined;
+      //
+      if (typeof navigator.webkitGetUserMedia !== "undefined") navigator.webkitGetUserMedia = undefined;
+      if (typeof window.webkitMediaStreamTrack !== "undefined") window.webkitMediaStreamTrack = undefined;
+      if (typeof window.webkitRTCPeerConnection !== "undefined") window.webkitRTCPeerConnection = undefined;
+      if (typeof window.webkitRTCSessionDescription !== "undefined") window.webkitRTCSessionDescription = undefined;
+    })(); </script></html>
